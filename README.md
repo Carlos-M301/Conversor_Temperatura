@@ -1,6 +1,6 @@
 # conversor_temperatura
 
-Una aplicación para convertir temperatura de C a F
+Una aplicación para convertir temperatura de F a C.
 
 ## Getting Started
 
